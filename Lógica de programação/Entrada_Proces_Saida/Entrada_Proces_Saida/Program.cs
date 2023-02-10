@@ -4,7 +4,11 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+<<<<<<< HEAD
         int A, B, soma;
+=======
+        /*int A, B, soma;
+>>>>>>> e236f5dda09614314ff45a4fc7cdac1fb507f121
 
         Console.WriteLine("Infome o primeiro valor: ");
         A = int.Parse(Console.ReadLine());
@@ -27,7 +31,11 @@ internal class Program
 
         diferenca = (a * b) - (c * d);
 
+<<<<<<< HEAD
         Console.WriteLine("Diferença = " + diferenca);
+=======
+        Console.WriteLine("Diferença = " + diferenca);*/
+>>>>>>> e236f5dda09614314ff45a4fc7cdac1fb507f121
 
         int num, horasTrab;
         double salario, salarioTotal;
@@ -37,7 +45,10 @@ internal class Program
         Console.WriteLine("Digite as horas trabalhadas: ");
         horasTrab= int.Parse(Console.ReadLine());
         Console.WriteLine("Digite o salário por hora: ");
+<<<<<<< HEAD
         //InvariantCulture nesse caso como o pc está em port ele converte para "." e não ","
+=======
+>>>>>>> e236f5dda09614314ff45a4fc7cdac1fb507f121
         salario= double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
         salarioTotal = horasTrab * salario;
