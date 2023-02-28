@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\012205631\\Desktop\\Estudos C#\\Updates-Estudos\\OrientaçãoObjeto\\OrientaçãoObjeto.csproj": {}
+    "C:\\Users\\012205631\\Desktop\\Estudos C#\\Updates-Estudos\\Exercicio de fixação\\Exercicio-Banco\\Exercicio-Banco\\Exercicio-Banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\012205631\\Desktop\\Estudos C#\\Updates-Estudos\\OrientaçãoObjeto\\OrientaçãoObjeto.csproj": {
+    "C:\\Users\\012205631\\Desktop\\Estudos C#\\Updates-Estudos\\Exercicio de fixação\\Exercicio-Banco\\Exercicio-Banco\\Exercicio-Banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\012205631\\Desktop\\Estudos C#\\Updates-Estudos\\OrientaçãoObjeto\\OrientaçãoObjeto.csproj",
-        "projectName": "OrientaçãoObjeto",
-        "projectPath": "C:\\Users\\012205631\\Desktop\\Estudos C#\\Updates-Estudos\\OrientaçãoObjeto\\OrientaçãoObjeto.csproj",
+        "projectUniqueName": "C:\\Users\\012205631\\Desktop\\Estudos C#\\Updates-Estudos\\Exercicio de fixação\\Exercicio-Banco\\Exercicio-Banco\\Exercicio-Banco.csproj",
+        "projectName": "Exercicio-Banco",
+        "projectPath": "C:\\Users\\012205631\\Desktop\\Estudos C#\\Updates-Estudos\\Exercicio de fixação\\Exercicio-Banco\\Exercicio-Banco\\Exercicio-Banco.csproj",
         "packagesPath": "C:\\Users\\012205631\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\012205631\\Desktop\\Estudos C#\\Updates-Estudos\\OrientaçãoObjeto\\obj\\",
+        "outputPath": "C:\\Users\\012205631\\Desktop\\Estudos C#\\Updates-Estudos\\Exercicio de fixação\\Exercicio-Banco\\Exercicio-Banco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
